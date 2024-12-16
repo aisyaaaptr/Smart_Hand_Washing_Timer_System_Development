@@ -23,6 +23,9 @@ As an IoT intern at PT Kalbe Morinaga Indonesia, my goal is to create an easy-to
 
 ## Step 3: System Design
 - Create a schematic diagram of the system, illustrating the connections between the sensor, timer, display, and power supply.
+- 
+![Screenshot 2024-12-16 091151](https://github.com/user-attachments/assets/eba172dc-390a-42d0-be33-8690194ba906)
+
 - Design the physical casing to ensure the device is compact, durable, and resistant to environmental factors like water and dust.
 
 ![Screenshot 2024-11-06 161942](https://github.com/user-attachments/assets/77a62c97-9c56-4945-a0f7-a39cbfa5062a)
