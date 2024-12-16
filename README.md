@@ -30,6 +30,9 @@ As an IoT intern at PT Kalbe Morinaga Indonesia, my goal is to create an easy-to
 ## Step 4: Prototyping
 - Assemble the selected components based on the schematic design.
 - Write and upload the code to the microcontroller for handling sensor input, initiating the timer, and controlling the display output.
-- Test the prototype on a small scale to validate the basic functionality.
 
 ![WhatsApp Image 2024-11-18 at 19 05 06_9d7fbb28](https://github.com/user-attachments/assets/9aa95f83-6174-45f5-a545-d4eda1aad49f)
+
+## Step 5: Testing and Validation
+- Conduct multiple tests to confirm the accuracy of the proximity detection and timer functionality.
+- Evaluate the user experience by simulating real-world usage scenarios.
